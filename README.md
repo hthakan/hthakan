@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hthakan)](https://github.com/hthakan/github-readme-stats)
+[![Hakan's github stats](https://github-readme-stats.vercel.app/api?username=hthakan)]
 
